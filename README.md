@@ -1,6 +1,9 @@
 # TF-Training-OpenVINO-Inference
 Training with tenforflow and inferencing with OpenVINO
-Prerequisites
+
+Hardware requirement: 6th-8th Generation Intel® Core™
+
+Software requirement:
   * Microsoft Windows 10
   * [Git for Windows] (https://gitforwindows.org/)
   * [Anaconda for Windows] (https://www.anaconda.com/download/#windows)
@@ -9,5 +12,5 @@ Prerequisites
   * [Cmake for Windows] (https://cmake.org/download/)
   * [Intel® Distribution of OpenVINO™ Toolkit] (https://software.intel.com/en-us/openvino-toolkit)
     * Build the samples and install the prerequisites for model optimizer
-
+    
 Autor: Hemanth Kumar G, Intel
