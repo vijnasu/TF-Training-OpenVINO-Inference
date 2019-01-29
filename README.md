@@ -9,4 +9,5 @@ Prerequisites
   * [Cmake for Windows] (https://cmake.org/download/)
   * [Intel® Distribution of OpenVINO™ Toolkit] (https://software.intel.com/en-us/openvino-toolkit)
     * Build the samples and install the prerequisites for model optimizer
+
 Autor: Hemanth Kumar G, Intel
